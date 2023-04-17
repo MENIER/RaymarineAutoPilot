@@ -19,6 +19,7 @@ This library read write pilot mode :
 	    PILOT_MODE_TRACK
 	    PILOT_MODE_TRACK1 //No Drift, COG referenced (In track, course changes)
 Send event keys:
+
 	EV_PILOT_RESPONCE_LEISURE
 	EV_PILOT_RESPONCE_CRUISING
 	EV_PILOT_RESPONCE_PERFORMANCE
