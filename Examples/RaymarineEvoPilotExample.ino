@@ -22,6 +22,7 @@ OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 This Example for use RaymarinePilot library
+ Remote control of raymarine pilot by serial Terminal
  */
 
 ////////////////////WEMOS R32///////////////////////////////////////////////////////////////
