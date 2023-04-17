@@ -1,4 +1,8 @@
 # RaymarineAutoPilot
+It is based on the work of this project in GitHub: 
+https://github.com/matztam/raymarine-evo-pilot-remote.
+https://github.com/AK-Homberger/ESP32-Evo-Remote-Pilot-NMEA2000
+Many thanks for all the work to identify the NMEA 2000 codes for the EV-1 Course Computer.
 RaymarineAutoPilot ESP32 NMEA2000
 This library read write pilot mode :
 
