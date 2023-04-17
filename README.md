@@ -1,6 +1,7 @@
 # RaymarineAutoPilot
-It is based on the work of this project in GitHub: 
-https://github.com/matztam/raymarine-evo-pilot-remote.
+It is based on the work of tthese projects in GitHub: 
+https://github.com/matztam/raymarine-evo-pilot-remote 
+and
 https://github.com/AK-Homberger/ESP32-Evo-Remote-Pilot-NMEA2000
 Many thanks for all the work to identify the NMEA 2000 codes for the EV-1 Course Computer.
 The code is using the NMEA 2000 libraries from Timo Lappalainen (https://github.com/ttlappalainen).
