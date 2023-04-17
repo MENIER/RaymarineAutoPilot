@@ -25,8 +25,8 @@ Send event keys:
 read rudder headingLocked windLocket heading etc...
 PGNS in read mode.
       PGN65345_SeatalkPilotWindDatum, //read locked Wind direction
-			PGN65288_SeatalkAlarm      ,   // Read Seatalk Alarm State
-			PGN65361_SeatalkSilenceAlarm,
+      PGN65288_SeatalkAlarm      ,   // Read Seatalk Alarm State
+      PGN65361_SeatalkSilenceAlarm,
 			PGN65379_SeatalkPilotMode  ,   // Read Pilot Mode
 			PGN126720_Seatalk1PilotMode,
 			PGN65359_SeatalkPilotHeading,
