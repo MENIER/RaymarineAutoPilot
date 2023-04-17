@@ -53,6 +53,4 @@ PGNS in write mode:
 			PGN65361_SeatalkSilenceAlarm,
 			PGN126208_NmeaRequestGroupFunction,   // Set Pilot Mode
 			PGN126720_Seatalk1PilotMode ,   // Send Key Command
-			PGN129283_CrossTrackError   ,
-			PGN129284_NavigationData    ,   //tack simul
 			PGN130306_WindData    ,
