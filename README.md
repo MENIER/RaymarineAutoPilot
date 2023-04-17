@@ -22,9 +22,9 @@ Send event keys:
 		EV_KEY_PLUS_1_PLUS_10   
 		EV_KEY_TACK_PORTSIDE    
 		EV_KEY_TACK_STARBORD    
-read rudder headingLocked windLocket heading etc...
-PGNS in read mode.
-      PGN65345_SeatalkPilotWindDatum, //read locked Wind direction
+Read rudder headingLocked windLocket heading.
+PGNS in read mode:
+	PGN65345_SeatalkPilotWindDatum, //read locked Wind direction
       PGN65288_SeatalkAlarm      ,   // Read Seatalk Alarm State
       PGN65361_SeatalkSilenceAlarm,
 			PGN65379_SeatalkPilotMode  ,   // Read Pilot Mode
