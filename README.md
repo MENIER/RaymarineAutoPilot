@@ -30,7 +30,6 @@ Send event keys:
 	EV_KEY_PLUS_1_PLUS_10   
 	EV_KEY_TACK_PORTSIDE    
 	EV_KEY_TACK_STARBORD    
-Read rudder headingLocked windLocket heading.
 
 PGNS in read mode:
 
